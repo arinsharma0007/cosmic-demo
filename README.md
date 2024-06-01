@@ -1,2 +1,2 @@
 # cosmic-demo
-This is a demo for cosmic(project)
+This is a demo for git & Github class in cosmic(project).
